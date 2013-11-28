@@ -9,4 +9,4 @@
 
 # Make sure your secret_key_base is kept private
 # if you're sharing your code publicly.
-Zencontract::Application.config.secret_key_base = '922a71029fb884f154add9a31f087cccfc78a2a4493984f0fb8343045f3dc27f2c36314f2126174748aa815fe03a0abf47c622eb10e15e9bb4492c9062ce01a9'
+Zencontract::Application.config.secret_key_base = '68ed741612aef21e0bf36f9eab67970ac1d14d6592294e6073d44f6b4281dd275ff8267cd71f4bee22db24ce42a7114db7107200dd1caf9f998339715b94ebe7'
